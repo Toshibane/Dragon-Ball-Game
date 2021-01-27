@@ -1,0 +1,6 @@
+TODO :
+	Faire attaques sp�ciales (Houla)
+
+Fonctionnement Ki :
+    Se recharge à chaque coup porté à l'adversaire de 5%
+    Attaque spéciale = 50% de ki nécéssaire
